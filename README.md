@@ -16,6 +16,8 @@ Recursos sobre Datos Abiertos y Transparencia
 
 #### España
 
+* [Portal de transparencia del Gobierno de España](http://transparencia.gob.es/)
+
 _Andalucía_
 
 [Portal de datos abiertos de la Junta de Andalucía](http://www.juntadeandalucia.es/datosabiertos/portal.html)

@@ -11,7 +11,8 @@ Recursos sobre Datos Abiertos y Transparencia
 
 ### Europa
 
-[The European Union Open Data Portal](http://data.europa.eu/euodp/en/home)
+* [The European Union Open Data Portal](http://data.europa.eu/euodp/en/home)
+* [European Data Portal](https://www.europeandataportal.eu/)
 
 #### España
 
